@@ -1,0 +1,138 @@
+[
+    {
+        "product_id": "1",
+        "product_title": "Ultra Slim Laptop",
+        "product_image": "https://i.ibb.co.com/k503gKZ/halfclosed-laptop-wooden-table-screen-glows-with-colors.jpg",
+        "category": "Computers",
+        "price": 999.99,
+        "description": "A sleek, lightweight laptop with high performance for everyday tasks.",
+        "Specification": [
+            "Intel i7 processor",
+            "16GB RAM",
+            "512GB SSD",
+            "15-inch Retina display",
+            "Battery life: 12 hours"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "2",
+        "product_title": "Smartphone X Pro",
+        "product_image": "https://i.ibb.co.com/0QX7ScG/3237982.jpg",
+        "category": "Phones",
+        "price": 799.99,
+        "description": "A powerful smartphone with a stunning display and advanced camera features.",
+        "Specification": [
+            "6.5-inch OLED display",
+            "Triple camera system",
+            "128GB storage",
+            "5G compatible",
+            "Face recognition"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "3",
+        "product_title": "Fitness Smart Watch",
+        "product_image": "https://i.ibb.co.com/HP3JJNx/18689-NRRY71.jpg",
+        "category": "Smart Watches",
+        "price": 199.99,
+        "description": "Track your fitness goals with this stylish and feature-rich smartwatch.",
+        "Specification": [
+            "Heart rate monitor",
+            "GPS tracking",
+            "Water resistant",
+            "Customizable watch faces",
+            "Notifications for calls and messages"
+        ],
+        "availability": true,
+        "rating": 4.4
+    },
+    {
+        "product_id": "4",
+        "product_title": "Fast Charging Wall Charger",
+        "product_image": "https://i.ibb.co.com/PNNW6Dr/usb-charging-gadgets-blurred-background-room-close-up-concept-technology-everyday-life.jpg",
+        "category": "Chargers",
+        "price": 29.99,
+        "description": "Quickly charge your devices with this compact wall charger.",
+        "Specification": [
+            "18W Power Delivery",
+            "Compatible with USB-C devices",
+            "Compact design",
+            "Built-in safety features"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "5",
+        "product_title": "Portable Power Bank 10000mAh",
+        "product_image": "https://i.ibb.co.com/4jhhX8Q/power-bank-mobile-phone.jpg",
+        "category": "Power Banks",
+        "price": 39.99,
+        "description": "A high-capacity power bank to keep your devices charged on the go.",
+        "Specification": [
+            "10000mAh capacity",
+            "Dual USB output",
+            "Fast charging support",
+            "LED power indicator",
+            "Lightweight and portable"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": "6",
+        "product_title": "4K Ultra HD Monitor",
+        "product_image": "https://i.ibb.co.com/TR6Vy2p/view-computer-monitor-display.jpg",
+        "category": "Computers",
+        "price": 499.99,
+        "description": "Experience stunning visuals with this 4K Ultra HD monitor.",
+        "Specification": [
+            "3840 x 2160 resolution",
+            "IPS panel",
+            "HDR support",
+            "75Hz refresh rate",
+            "VESA mount compatible"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "7",
+        "product_title": "Noise Cancelling Headphones",
+        "product_image": "https://i.ibb.co.com/YNT261M/blonde-dj-girl-listening-music-headphones-does-like-it.jpg",
+        "category": "Audio",
+        "price": 129.99,
+        "description": "Immerse yourself in sound with these noise-cancelling headphones.",
+        "Specification": [
+            "1. Active noise cancellation",
+            "2. 30-hour battery life",
+            "3. Bluetooth connectivity",
+            "4. Comfortable over-ear design",
+            "5. Built-in microphone"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    
+    {
+        "product_id": "9",
+        "product_title": "Smartphone Wireless Charger",
+        "product_image": "https://i.ibb.co.com/sbgBmbC/phone-mobile-connect-battery-power-bank.jpg",
+        "category": "Chargers",
+        "price": 59.99,
+        "description": "Fast and convenient wireless charging for your smartphone.",
+        "Specification": [
+            "Qi-compatible",
+            "10W fast charging",
+            "Non-slip design",
+            "LED indicator",
+            "Compact and portable"
+        ],
+        "availability": true,
+        "rating": 4.4
+    }
+]
